@@ -1,4 +1,4 @@
-Software Carpentry bootcamp at Pisa
+Software Carpentry bootcamp at Italian National Institute for Nuclear Physics
 =========================================
 
 ![Software Carpentry logo](http://software-carpentry.org/img/software-carpentry-banner.png "Software Carpentry logo")
